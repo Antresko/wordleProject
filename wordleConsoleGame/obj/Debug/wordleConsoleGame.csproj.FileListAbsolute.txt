@@ -1,0 +1,7 @@
+C:\Users\Acer\OneDrive\Pulpit\wordleGame1\wordleProject\wordleConsoleGame\bin\Debug\wordleConsoleGame.exe.config
+C:\Users\Acer\OneDrive\Pulpit\wordleGame1\wordleProject\wordleConsoleGame\bin\Debug\wordleConsoleGame.exe
+C:\Users\Acer\OneDrive\Pulpit\wordleGame1\wordleProject\wordleConsoleGame\bin\Debug\wordleConsoleGame.pdb
+C:\Users\Acer\OneDrive\Pulpit\wordleGame1\wordleProject\wordleConsoleGame\obj\Debug\wordleConsoleGame.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Pulpit\wordleGame1\wordleProject\wordleConsoleGame\obj\Debug\wordleConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Pulpit\wordleGame1\wordleProject\wordleConsoleGame\obj\Debug\wordleConsoleGame.exe
+C:\Users\Acer\OneDrive\Pulpit\wordleGame1\wordleProject\wordleConsoleGame\obj\Debug\wordleConsoleGame.pdb
